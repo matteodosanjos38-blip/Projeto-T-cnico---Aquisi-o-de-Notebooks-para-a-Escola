@@ -2,7 +2,7 @@
 
 ###### (IDEIAS IMAGINARIA, APENAS SUPOSIÇAO PARA A TAREFA ESCOLAR)
  
-**Aluno(a):** Matteo Bstista Verissimo Dos Anjos  
+**Aluno(a):** Matteo Batista Verissimo Dos Anjos  
 **Período:** 2025.01  
 
 ---
