@@ -51,9 +51,11 @@ Os notebooks a serem adquiridos deverão atender, no mínimo, às especificaçõ
 ![Notebook Educacional](https://i.dell.com/sites/csimages/Merchandizing_Imagery/all/pt/dell-laptop.png)  
 *Figura 1 – Exemplo de notebook que atende às especificações recomendadas.*  
 
-**Links de Referência:**  
-- [Dell Brasil – Linha Educacional](https://www.dell.com/pt-br/shop/notebooks)  
-- [Lenovo – Notebooks para Educação](https://www.lenovo.com/br/pt/education)  
+**Links de Referência:**
+
+- [Dell Brasil – Loja Oficial](https://www.dell.com/pt-br)  
+- [Lenovo – Caso SOMOS Educação (Chromebooks)](https://www.lenovo.com/sg/en/case-studies-customer-success-stories/somos-educacao/?srsltid=AfmBOoqRfCA2otutjqGNs3-LK3Me4OkfXSDXXSoucevubTkj2Qq85pT9)  
+- [Lenovo V14/V15 na Amontada Valley](https://www.lenovo.com/us/en/case-studies-customer-success-stories/amontada-valley/)  
 
 ---
 
