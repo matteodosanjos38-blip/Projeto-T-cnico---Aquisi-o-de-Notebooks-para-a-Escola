@@ -1,4 +1,6 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola UECE
+# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola UECE 
+
+###### (IDEIAS IMAGINARIA, APENAS SUPOSIÇAO PARA A TAREFA ESCOLAR)
  
 **Aluno(a):** Matteo Bstista Verissimo Dos Anjos  
 **Período:** 2025.01  
@@ -32,46 +34,91 @@ Comparados aos desktops, os notebooks apresentam maior praticidade, menor consum
 
 ---
 
+# Projeto Técnico – Aquisição de Notebooks para a Escola
+
 ## 4. Especificações Técnicas dos Notebooks
+
 Os notebooks a serem adquiridos deverão atender, no mínimo, às especificações abaixo:
 
-| Componente     | Mínimo                       | Recomendado                  |
-| :------------- | :--------------------------- | :---------------------------- |
-| Processador    | Intel i5 (12ª geração)       | Intel i7 (12ª geração)        |
-| Memória RAM    | 8 GB                         | 16 GB                         |
-| Armazenamento  | SSD 256 GB                   | SSD 512 GB                    |
-| Tela           | 14" HD                       | 15.6" Full HD                 |
-| Bateria        | 6 horas                      | 10 horas                      |
-| Peso           | Até 2,0 kg                   | Até 1,6 kg                    |
-| Conectividade  | Wi-Fi 5 / Bluetooth 4.2      | Wi-Fi 6 / Bluetooth 5.2       |
-| Portas         | 2 USB + 1 HDMI               | 3 USB (2.0/3.0) + 1 HDMI + USB-C |
-
-**Imagem ilustrativa do modelo sugerido:**  
-
-![Notebook Educacional](https://i.dell.com/sites/csimages/Merchandizing_Imagery/all/pt/dell-laptop.png)  
-*Figura 1 – Exemplo de notebook que atende às especificações recomendadas.*  
-
-**Links de Referência:**
-
-- [Dell Brasil – Loja Oficial](https://www.dell.com/pt-br)  
-- [Lenovo – Caso SOMOS Educação (Chromebooks)](https://www.lenovo.com/sg/en/case-studies-customer-success-stories/somos-educacao/?srsltid=AfmBOoqRfCA2otutjqGNs3-LK3Me4OkfXSDXXSoucevubTkj2Qq85pT9)  
-- [Lenovo V14/V15 na Amontada Valley](https://www.lenovo.com/us/en/case-studies-customer-success-stories/amontada-valley/)  
+| **Componente**   | **Mínimo**                | **Recomendado**            |
+|------------------|---------------------------|-----------------------------|
+| Processador      | Intel Core i3 (10ª geração ou superior) | Intel Core i5 (12ª geração ou superior) |
+| Memória RAM      | 8 GB                      | 16 GB                       |
+| Armazenamento    | SSD 256 GB                | SSD 512 GB                  |
+| Tela             | 14" HD                    | 15.6" Full HD               |
+| Bateria          | 6 horas                   | 10 horas                    |
+| Peso             | Até 2,0 kg                | Até 1,6 kg                  |
+| Conectividade    | Wi-Fi 5 / Bluetooth 4.2   | Wi-Fi 6 / Bluetooth 5.2     |
+| Portas           | 2 USB + 1 HDMI            | 3 USB (2.0/3.0) + HDMI + USB-C |
 
 ---
 
+## 5. Modelos de Referência (faixa entre R$ 2.000 e R$ 4.000)
+
+### 1. [Lenovo IdeaPad 1i – Intel Core i3, 8 GB RAM, 256 GB SSD](https://www.lenovo.com/br/pt)  
+- **Preço:** ~R$ 2.200  
+- **Tela:** 14" HD  
+- **Bateria:** ~6h  
+- **Comentário:** Modelo básico, mas atende aos requisitos mínimos de desempenho.
+
+---
+
+### 2. [Dell Inspiron 15 – Intel Core i3, 8 GB RAM, 256 GB SSD](https://www.dell.com.br)  
+- **Preço:** ~R$ 2.500  
+- **Tela:** 15.6" Full HD  
+- **Bateria:** ~7h  
+- **Comentário:** Opção confiável, ideal para atividades escolares e administrativas.
+
+---
+
+### 3. [Lenovo IdeaPad 3 – Intel Core i5 (12ª geração), 8 GB RAM, 512 GB SSD](https://www.lenovo.com/br/pt)  
+- **Preço:** ~R$ 3.200  
+- **Tela:** 15.6" Full HD  
+- **Bateria:** ~8h  
+- **Comentário:** Ótimo custo-benefício, atende às especificações recomendadas.
+
+---
+
+### 4. [Dell Inspiron 15 – Intel Core i5 (12ª geração), 16 GB RAM, 512 GB SSD](https://www.dell.com.br)  
+- **Preço:** ~R$ 3.900  
+- **Tela:** 15.6" Full HD  
+- **Bateria:** ~10h  
+- **Comentário:** Melhor opção dentro do orçamento, ideal para uso intensivo.
+
+---
+
+## 6. Comparativo dos Modelos
+
+| Modelo                          | Processador           | RAM   | SSD    | Preço (aprox.) | Comentário                                      |
+|---------------------------------|-----------------------|-------|--------|----------------|------------------------------------------------|
+| Lenovo IdeaPad 1i (i3)          | Core i3 (10ª gen.)    | 8 GB  | 256 GB | R$ 2.200       | Cumpre os requisitos mínimos.                  |
+| Dell Inspiron 15 (i3)           | Core i3 (11ª gen.)    | 8 GB  | 256 GB | R$ 2.500       | Boa opção para atividades básicas.             |
+| Lenovo IdeaPad 3 (i5)           | Core i5 (12ª gen.)    | 8 GB  | 512 GB | R$ 3.200       | Atende às especificações recomendadas.         |
+| Dell Inspiron 15 (i5)           | Core i5 (12ª gen.)    | 16 GB | 512 GB | R$ 3.900       | Melhor performance dentro do orçamento.        |
+
+---
+
+## 7. Conclusão
+
+- Para **mínimo viável**, o **Lenovo IdeaPad 1i (i3)** é a escolha com menor custo.  
+- Para **uso recomendado**, o **Lenovo IdeaPad 3 (i5)** ou o **Dell Inspiron 15 (i5)** oferecem maior desempenho e durabilidade.  
+- Todos os modelos se enquadram no intervalo de **R$ 2.000 a R$ 4.000**, garantindo flexibilidade de escolha conforme a demanda.
+
+
+---
+  
 ## 5. Orçamento Estimado
 A proposta de aquisição contempla **30 notebooks** e itens complementares para garantir segurança, durabilidade e pleno funcionamento.  
 
 | Item                         | Quantidade | Valor Unitário (R$) | Valor Total (R$) |
 |------------------------------|------------|---------------------|-----------------|
-| Notebook Educacional         | 30         | 5.500,00            | 165.000,00      |
-| Seguro contra acidentes (1 ano) | 30     | 300,00              | 9.000,00        |
-| Sistema de rastreamento/licença | 30     | 250,00              | 7.500,00        |
-| Licenças de Software Educacional | 30   | 200,00              | 6.000,00        |
-| Bolsas/Cases de proteção     | 30         | 150,00              | 4.500,00        |
-| Roteador Wi-Fi de alta performance | 2   | 800,00              | 1.600,00        |
-| Instalação e Configuração    | 1 serviço  | 3.000,00            | 3.000,00        |
-| **TOTAL GERAL ESTIMADO**     |            |                     | **196.600,00**  |
+| Notebook Educacional         | 30         | 2.200,00            | 66.000,00       |
+| Seguro contra acidentes (1 ano) | 30     | 250,00               | 7.500,00        |
+| Sistema de rastreamento/licença | 30     | 100,00               | 3.000,00       |
+| Bolsas/Cases de proteção     | 30         | 36,00               | 1.080,00        |
+| Roteador Wi-Fi de alta performance | 2   | 700,00               | 1.400,00        |
+| **TOTAL GERAL ESTIMADO**     |            |                     | **78.980,00**  |
+
 
 ---
 
@@ -94,8 +141,8 @@ A proposta de aquisição contempla **30 notebooks** e itens complementares para
 ---
 
 ## 8. Considerações Finais
-A modernização do parque computacional por meio da aquisição de **30 notebooks educacionais** representa um investimento estratégico para a Escola [Nome da Escola].  
-A proposta garante mobilidade, redução de custos, atualização tecnológica e apoio direto ao processo de ensino-aprendizagem.  
-Diante dos benefícios pedagógicos, financeiros e institucionais apresentados, este projeto deve ser considerado prioridade pela direção e pelo setor de compras.
+A compra de 30 notebooks educacionais é um passo importante para modernizar o polo UAB de amontada.
+Além de trazer mobilidade e tecnologia atualizada, os notebooks ajudam a reduzir custos e dão suporte direto ao aprendizado dos alunos.
+Com todos esses benefícios, o projeto deve ser visto como prioridade pela direção e pelo setor de compras.
 
 ---
