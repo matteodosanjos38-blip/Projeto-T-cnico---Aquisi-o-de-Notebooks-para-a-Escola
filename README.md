@@ -13,7 +13,7 @@ Os computadores atualmente utilizados na escola estão defasados, lentos e com a
 ---
 
 ## 2. Introducao e Justificativa
-A infraestrutura computacional do polo UAB encontra-se obsoleta, com equipamentos que ultrapassam oito anos de uso. Essa condição impacta negativamente a aprendizagem, pois limita o acesso dos alunos a softwares atualizados, plataformas digitais e metodologias inovadoras.  
+A infraestrutura computacional do polo UAB encontra-se obselata, com equipamentos que ultrapassam oito anos de uso. Essa condição impacta negativamente a aprendizagem, pois limita o acesso dos alunos a softwares atualizados, plataformas digitais e metodologias inovadoras.  
 
 A aquisição de notebooks surge como a solução ideal, uma vez que possibilita:
 - Uso em diferentes ambientes (laboratórios, salas de aula, biblioteca).  
