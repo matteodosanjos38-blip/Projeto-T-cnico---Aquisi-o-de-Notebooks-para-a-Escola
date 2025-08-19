@@ -119,7 +119,7 @@ A proposta de aquisição contempla **30 notebooks** e itens complementares para
 | Roteador Wi-Fi de alta performance | 2   | 700,00               | 1.400,00        |
 | **TOTAL GERAL ESTIMADO**     |            |                     | **78.980,00**  |
 
-
+![Notebook sugerido]([https://example.com/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.betainformatica.com.br%2Fnotebooks%2Fnotebook-home-office%2Fcore-i3-ryzen-3%2Fnotebook-lenovo-ideapad-1i-intel-core-i3-12ageracao-memoria-8gb-ssd-256gb-tela-15-6-windows-11%3Fsrsltid%3DAfmBOorFe6sO8VcVdlMwBiK8Sh0w0FnXPZBu3ZRY0oY7b4QGIyTRvVg3&psig=AOvVaw1W3MnM3Z1T7R5MnLLGy1Zz&ust=1755721177517000&source=images&opi=89978449))
 ---
 
 ## 6. Benefícios Esperados
